@@ -12,3 +12,4 @@ D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.pdb
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.genruntimeconfig.cache
 D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\ref\32-InvestigatingStringFormattingBasics.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.sourcelink.json
