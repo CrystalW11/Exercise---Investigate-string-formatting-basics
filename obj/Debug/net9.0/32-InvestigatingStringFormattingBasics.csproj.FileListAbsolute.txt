@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\bin\Debug\net9.0\32-InvestigatingStringFormattingBasics.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\bin\Debug\net9.0\32-InvestigatingStringFormattingBasics.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\bin\Debug\net9.0\32-InvestigatingStringFormattingBasics.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\bin\Debug\net9.0\32-InvestigatingStringFormattingBasics.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\bin\Debug\net9.0\32-InvestigatingStringFormattingBasics.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\refint\32-InvestigatingStringFormattingBasics.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\32-InvestigatingStringFormattingBasics.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\32-InvestigatingStringFormattingBasics\obj\Debug\net9.0\ref\32-InvestigatingStringFormattingBasics.dll
